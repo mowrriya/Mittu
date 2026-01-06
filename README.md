@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/midhunaanandh-dotcom/Mittu/issues/2#issue-3785874736" />
+
 </div>
 
 # Run and deploy your AI Studio app
